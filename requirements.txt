@@ -1,0 +1,6 @@
+numpy
+sounddevice
+customtkinter
+# Optional: better compression + lower bandwidth. App auto-falls back to raw PCM
+# if this (or its native opus DLL) isn't present.
+opuslib
